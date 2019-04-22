@@ -2,20 +2,8 @@
  * Class: LinkedList
  * Author: Quin J. G. Rider
  * Date of creation: 2018-03-13
- * Last Modified: 2019-04-08
+ * Last Modified: 2019-04-22
  * 
- * Note: This is old code (2018) that's been cleaned up for use in this
- *       assignment. Major changes include:
- *       1. Separation of the DLLNode class from this one (removed from this
- *          header and placed in DLLNode.h
- *       2. Change in variable and class naming conventions, e.g.:
- *          from variable_name to variableName
- *          and 
- *          from className to ClassName
- *       3. Removal of functions relating to sorting, as they're not needed
- *          for this assignment and were left in quite a messy state.
- *       4. No longer expects pointer data types (allowing data type to be
- *          fully specified as template parameter)
  * 
  * Note: This is a template class, and as such is entirely contained in this
  *       header file (to avoid manually declaring compatable types).
