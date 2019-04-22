@@ -1,4 +1,4 @@
-// Testing for the LinkedList class
+// Testing for the LinkedList class (extremely basic sample use)
 
 #include "LinkedList.h"
 
